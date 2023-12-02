@@ -34,5 +34,5 @@
 | Play direction                          | hold <PATCH button and turn RIGHT ENCODER                  |
 | Reset sequence                          | SHIFT and push PATCH> button                               |
 | Stepped modulation                      | SHIFT + LEFT ENCODER                                       |
-| Reset VCO pitch on steop                | SHIFT + RECALL while on sequencer                          |
+| Reset VCO pitch on stop                 | SHIFT + RECALL while on sequencer                          |
 
