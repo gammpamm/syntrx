@@ -1,7 +1,7 @@
 # Syntrx II by Erica Synths
 
 | Patch Matrix                            | Action                                                     |
-| --------------------------------------- |:----------------------------------------------------------:|
+| --------------------------------------- | ---------------------------------------------------------- |
 | Patch                                   | push RIGHT ENCODER makes or break full on connection       |
 | Delete a patch                          | SHIFT, SAVE and RIGHT ENCODER together (matrix page)       |
 | Preview patch                           | SHIFT and push RIGHT ENCODER                               |
@@ -16,7 +16,7 @@
 
 
 | Sequencer                               | Action                                                     |
-| --------------------------------------- |:----------------------------------------------------------:|
+| --------------------------------------- | ---------------------------------------------------------- |
 | Sequencer node attenuation              | push LEFT ENCODER cycles (off, 30, 70, 100)                |
 | Clear JOYSTICK memory                   | double push REC/CLEAR                                      |
 | MIDI CC messages                        | go through JOYSTICK channels on the matrix                 |
