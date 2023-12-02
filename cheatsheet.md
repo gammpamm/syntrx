@@ -13,6 +13,9 @@
 | Delete save slot                        | SAVE then SHIFT + push RIGHT ENCODER                       |
 | Set BPM                                 | SHIFT and turn LEFT ENCODER                                |
 | Matrix LEDs off                         | SHIFT + RECALL while on patch matrix                       |
+| Configuration                           | SHIFT + <PATCH                                             |
+| Configuration switch menu               | LEFT ENCODER                                               |
+| Configuration change setting            | RIGHT ENCODER                                              |
 
 ---
 
