@@ -14,6 +14,8 @@
 | Set BPM                                 | SHIFT and turn LEFT ENCODER                                |
 | Matrix LEDs off                         | SHIFT + RECALL while on patch matrix                       |
 
+---
+
 
 | Sequencer                               | Action                                                     |
 | --------------------------------------- | ---------------------------------------------------------- |
